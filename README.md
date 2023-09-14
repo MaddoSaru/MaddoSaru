@@ -1,15 +1,21 @@
-# **Matías Riquelme Junes** 🐵
+## **Matías Riquelme Junes** 🐵
 
 - Industrial Engineer, Diego Portales University, Chile 🇨🇱
 - Data & Analytics / Analytics Engineer / Data Analyst / Data Engineer
 
 ### ***Tools***
 
+- **SQL**: DDL, DCL, DML, DQL
+- **Python**: Pandas, Numpy, Matplotlib, PySpark, Sklearn
+- **GCP**: Storage, BigQuery, Composer
+- **DBT**: Models, macros
+
+<!--
 - SQL ------ 🔳🔳🔳🔳🔳🔳🔳⬜️⬜️
 - Python --- 🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️
 - GCP ------ 🔳🔳🔳⬜️⬜️⬜️⬜️⬜️⬜️
 - DBT ------ 🔳🔳🔳🔳⬜️⬜️⬜️⬜️⬜️
-
+-->
 
 ### ***Let's connect!***
 
