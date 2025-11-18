@@ -6,21 +6,22 @@
 ### ***Tools***
 
 - **SQL**: DDL, DCL, DML, DQL
-- **Python**: Pandas, Numpy, Matplotlib, PySpark, Sklearn
+- **Python**: Pandas, Numpy, Matplotlib, PySpark, Sklearn, Streamlit
 - **GCP**: Storage, BigQuery, Composer
-- **DBT**: Models, macros
+- **DBT**: Models, macros, tests, dbt project management
 
-<!--
-- SQL ------ 🔳🔳🔳🔳🔳🔳🔳⬜️⬜️
-- Python --- 🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️
-- GCP ------ 🔳🔳🔳⬜️⬜️⬜️⬜️⬜️⬜️
-- DBT ------ 🔳🔳🔳🔳⬜️⬜️⬜️⬜️⬜️
--->
+### ***Skills***
+* SQL -------- 🔳🔳🔳🔳🔳🔳🔳⬜️⬜️⬜️
+* Python ----- 🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️⬜️
+* GCP -------- 🔳🔳🔳⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+* DBT -------- 🔳🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️
+* Snowflake -- 🔳🔳🔳🔳🔳⬜️⬜️⬜️⬜️⬜️
+
 
 ### ***Let's connect!***
 
 - [GitHub](https://github.com/MaddoSaru)
-- [LinkedIn](https://www.linkedin.com/in/maddosaru/)
+- [LinkedIn](https://www.linkedin.com/in/mriquelmejunes/)
 
 <!--
 **MaddoSaru/MaddoSaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
